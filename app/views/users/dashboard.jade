@@ -1,0 +1,22 @@
+#user(data-id=user._id.toString()) User: #{user.username}
+#orderDate #{date}
+button#order.button Place Order
+button#pastorder.button Past Orders
+#select
+  select#type
+    option Appetizer
+    option Entree
+    option Side
+  select#name
+    option Salsa
+    option Queso
+    option Guacamole
+    option Taco
+    option Burrito
+    option Fajitas
+    option Beans
+    option Rice
+    option Salad
+  input#qty(type='text', placeholder='Qty')
+  button#add Add
+#totalCost $0.00

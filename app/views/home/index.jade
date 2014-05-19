@@ -1,5 +1,11 @@
 extends ../shared/template
 
 block content
-  h1 Node.js Template
-  a.button.button-3d-highlight.button-circle(href='/help') Help
+  h1 Order Mexican Food!
+  #controls
+    input#username(type='text', autofocus=true, placeholder='Username')
+    input#date(type='date')
+    button#login Login
+
+  #dashboard
+  #added

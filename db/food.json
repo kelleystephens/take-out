@@ -1,0 +1,9 @@
+{"type": "appetizer", "name": "salsa", "cost":1.50, "calories": 100}
+{"type": "appetizer", "name": "queso", "cost":2.50, "calories": 300}
+{"type": "appetizer", "name": "guacamole", "cost":3.50, "calories": 250}
+{"type": "entree", "name": "taco", "cost":2.00, "calories": 200}
+{"type": "entree", "name": "burrito", "cost":5.00, "calories": 500}
+{"type": "entree", "name": "fajitas", "cost":10.00, "calories": 800}
+{"type": "side", "name": "beans", "cost":2.00, "calories": 275}
+{"type": "side", "name": "rice", "cost":2.50, "calories": 200}
+{"type": "side", "name": "salad", "cost":3.50, "calories": 100}
